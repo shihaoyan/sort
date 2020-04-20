@@ -1,4 +1,4 @@
-package com.shy.jvm.single;
+package com.shy.single;
 
 /**
  * @author 石皓岩

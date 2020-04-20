@@ -1,4 +1,4 @@
-package com.shy.jvm.sort;
+package com.shy.sort;
 
 /**
  * @author 石皓岩

@@ -1,6 +1,6 @@
-package com.shy.jvm.subject;
+package com.shy.subject;
 
-import com.shy.jvm.observer.Observer;
+import com.shy.observer.Observer;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;

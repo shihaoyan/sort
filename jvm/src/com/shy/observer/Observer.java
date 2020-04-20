@@ -1,4 +1,4 @@
-package com.shy.jvm.observer;
+package com.shy.observer;
 
 /**
  * @author 石皓岩
