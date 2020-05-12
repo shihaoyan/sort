@@ -1,4 +1,4 @@
-package com.shy.sort;
+package com.shy.io.sort;
 
 import java.util.Arrays;
 

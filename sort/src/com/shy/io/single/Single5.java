@@ -1,4 +1,4 @@
-package com.shy.single;
+package com.shy.io.single;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

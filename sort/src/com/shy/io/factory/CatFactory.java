@@ -1,4 +1,4 @@
-package com.shy.factory;
+package com.shy.io.factory;
 
 /**
  * @author 石皓岩

@@ -1,6 +1,6 @@
-package com.shy.subject;
+package com.shy.io.subject;
 
-import com.shy.observer.Observer;
+import com.shy.io.observer.Observer;
 
 /**
  * @author 石皓岩

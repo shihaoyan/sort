@@ -1,7 +1,7 @@
-package com.shy;
+package com.shy.io;
 
-import com.shy.sort.SelectSort;
-import com.shy.sort.SortHandler;
+import com.shy.io.sort.SelectSort;
+import com.shy.io.sort.SortHandler;
 
 import java.util.Date;
 
