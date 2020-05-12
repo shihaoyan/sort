@@ -12,8 +12,8 @@ public class Main_Class {
     public static void main(String[] args) throws Exception {
 
         File file = new File("C:\\Users\\92346\\Desktop\\test.txt");
-        InputStream is = new FileInputStream(file);
-
+        InputStream is = null;
+        is = new FileInputStream(file);
         Reader reader = new InputStreamReader(is);
 
         BufferedReader br = new BufferedReader(reader);
@@ -22,7 +22,7 @@ public class Main_Class {
             System.out.println(s);
         }
 
-
+        
 
     }
 }
