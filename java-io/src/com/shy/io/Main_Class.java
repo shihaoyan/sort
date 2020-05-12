@@ -22,7 +22,7 @@ public class Main_Class {
             System.out.println(s);
         }
 
-        
+
 
     }
 }
