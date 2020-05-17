@@ -8,6 +8,9 @@ package com.shy.thread;
 public class Main_Class {
 
     public static void main(String[] args) {
+    }
+
+    private static void printABC() {
         PrintClass print = new PrintClass();
         for (int i = 0; i < 10; i++) {
             new Thread(() -> {
